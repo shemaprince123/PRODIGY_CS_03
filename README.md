@@ -1,7 +1,5 @@
 # PRODIGY_CS_03
 
-Here’s an updated version of the README with placeholders for screenshots:
-
 ---
 
 # Password Complexity Checker
@@ -67,9 +65,11 @@ When you check a password, the app will display a message like this:
 ![image](https://github.com/user-attachments/assets/157a3efb-4a94-41ca-8048-a3e0c5060179)
 
 *Very Weak password*
+
 ![image](https://github.com/user-attachments/assets/1084e6eb-891f-4713-9bfa-42b1a814e0a0)
 
 *Very Strong password*
+
 ![image](https://github.com/user-attachments/assets/664969cc-59df-47cd-aa84-e7524e2941a7)
 
 ---
