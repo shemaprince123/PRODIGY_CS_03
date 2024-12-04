@@ -91,5 +91,3 @@ This project is free to use and modify for educational purposes or personal proj
 Thank you for using the Password Complexity Checker!
 
 ---
-
-You can replace the placeholder links for screenshots (e.g., `#`) with the actual URLs to your images or simply upload the images to the appropriate locations later. Let me know if you need further assistance!
